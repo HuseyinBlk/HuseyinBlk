@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Hüseyin Balık 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Student at İstanbul Topkapı University | Full-Stack .NET Developer | Deep Learning</em>
+  <em>Software Engineering Student at İstanbul Topkapı University | Full-Stack .NET Developer | Android Developer</em>
 </p>
 
 ---
